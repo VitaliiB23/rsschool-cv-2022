@@ -1,2 +1,2 @@
 # rsschool-cv
-https://vitaliib23.github.io/rsschool-cv/cv
+https://vitaliib23.github.io/rsschool-cv/
