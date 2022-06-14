@@ -18,7 +18,10 @@ ul{
     --gray: #f3f4f5;
     --light-gray: #e1e1e1;
     --orange: #d6932e;
-  }
+}
+html {
+    scroll-behavior: smooth; 
+}
 /* Variability End */
 /* Main Style Start */
 @font-face {
@@ -110,6 +113,27 @@ body{
     padding-bottom: 10px;
 }
 /* Main Style End */
+/* Nav Style Start */
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+}
+.nav-list {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+.nav-list {
+    list-style: none;
+}
+.nav-link {
+    padding: 0 20px;
+    line-height: 50px;
+}
+.nav-link {
+    transition: .3s;
+}
+/* Nav Style End */
 /* Header Style Start */
 	.header{
         width: 100%;
