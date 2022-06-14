@@ -135,11 +135,8 @@ body{
         object-fit: cover;
         border: 15px solid var(--white);
     }
-	.header__title{
-		font-family: 'ralewaybold';
-		font-size: 45px;
-	}
 	.header__title_span{
+        font-family: 'ralewaybold';
 		color: var(--main-color);
 		font-size: 45px;
 		line-height: 55px;
