@@ -150,8 +150,7 @@ body{
 	}
 	.header__title_span{
 		color: var(--main-color);
-		font-family: 'storytella';
-		font-size: 55px;
+		font-size: 45px;
 		line-height: 55px;
     }
     .header__subtitle{
